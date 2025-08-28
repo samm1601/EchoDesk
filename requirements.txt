@@ -1,0 +1,6 @@
+openai-whisper
+coqui-tts
+openai
+sounddevice
+numpy
+python-dotenv

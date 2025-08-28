@@ -1,0 +1,157 @@
+{
+  "institution": {
+    "name": "The Scholars Science College",
+    "location": "Wah Cantt, Pakistan",
+    "campuses": [
+      {
+        "name": "Boys Campus",
+        "address": "Opp to CB ground, Wah Cantt"
+      },
+      {
+        "name": "Girls Campus I",
+        "address": "A-59/23, The Mall, Wah Cantt"
+      },
+      {
+        "name": "Girls Campus II",
+        "address": "Almustafa Plaza, near barrier 3"
+      }
+    ],
+    "contact": {
+      "emails": {
+        "admin": "ssc510400@gmail.com",
+        "controller_exams": "waseemahmed.wa6673@gmail.com"
+      },
+      "phones": [
+        "051-4925003",
+        "051-4510400",
+        "051-4530549",
+        "+92 300 9880870",
+        "+92 333 5412679"
+      ]
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/scholarssciencecollege"
+    },
+    "website": "https://scholars.edu.pk"
+  },
+  "administration": {
+    "director_message": "Welcome to Scholars Science College, Wah Cantt, offering a heritage of diversity and academic excellence with custom resources.",
+    "principal": "Mr. Muhammad Mohsin Abbas",
+    "principal_message": "TSSC offers a vibrant learning environment focused on quality education, student wellbeing, and holistic development."
+  },
+  "mission_vision": {
+    "mission": "To partner with the community, families, and students to impart knowledge, skills, and values for success and societal enrichment.",
+    "vision": "To enable students to become responsible global citizens."
+  },
+  "admissions": {
+    "how_to_apply": [
+      "Get info via website, phone, or visit",
+      "Acquire prospectus",
+      "Submit completed form with documents",
+      "Deposit fee and receive roll number"
+    ],
+    "criteria": {
+      "intermediate": ["Matriculation", "O-Levels"],
+      "bachelors": ["Intermediate", "A-Levels"]
+    },
+    "policies": {
+      "fee_concessions": "90% attendance for scholarship, 80% for concession; application within due date required",
+      "discipline": [
+        "Punctuality mandatory",
+        "Mobile phones/cameras prohibited",
+        "No political activity",
+        "Proper uniform required"
+      ],
+      "default": "Name is struck off after 1 month of unpaid dues"
+    }
+  },
+  "programs": [
+    {
+      "name": "FSc Pre-Engineering",
+      "subjects": ["English", "Urdu", "Islamic Education", "Pakistan Studies", "Mathematics", "Physics", "Chemistry"],
+      "duration": "2 years",
+      "board": "FBISE"
+    },
+    {
+      "name": "FSc Pre-Medical",
+      "subjects": ["English", "Urdu", "Islamic Education", "Pakistan Studies", "Biology", "Physics", "Chemistry"],
+      "duration": "2 years",
+      "board": "FBISE"
+    },
+    {
+      "name": "ICS",
+      "subjects": ["English", "Urdu", "Islamic Education", "Pakistan Studies", "Mathematics", "Statistics", "Computer"],
+      "duration": "2 years",
+      "board": "FBISE"
+    },
+    {
+      "name": "FCS",
+      "subjects": ["English", "Urdu", "Islamic Education", "Pakistan Studies", "Mathematics", "Physics", "Computer"],
+      "duration": "2 years",
+      "board": "FBISE"
+    },
+    {
+      "name": "BSc",
+      "subjects": {
+        "compulsory": ["English", "Islamiat", "Pakistan Studies"],
+        "elective_combinations": [
+          ["Math-A", "Math-B", "Physics"],
+          ["Math-A", "Math-B", "Statistics"],
+          ["Gen Maths", "Statistics", "Computer"],
+          ["Gen Maths", "Physics", "Computer"]
+        ]
+      },
+      "duration": "2 years",
+      "board": "University of Sargodha"
+    }
+  ],
+  "results": {
+    "2025": {
+      "scholarship_test": {
+        "main_campus": "Scholarship Test 1 Results 2025 – Main Campus",
+        "taxila_campus": "Scholarship Test 1 Results 2025 – Taxila Campus"
+      },
+      "first_term": "First Term Results",
+      "send_ups": "Send Ups Result",
+      "positions": "Top 3 Positions"
+    }
+  },
+  "student_life": {
+    "facilities": [
+      "Air-conditioned classrooms",
+      "State-of-the-art labs",
+      "Digitized learning with tablets",
+      "Well-stocked libraries",
+      "Sports complex",
+      "Cafeteria",
+      "Transport services"
+    ],
+    "clubs_and_societies": [
+      "Science Club",
+      "Maths Enrichment Programs",
+      "Garden Club",
+      "Chess Club",
+      "Dramatics Society",
+      "Debating Club",
+      "FRED (Friends of Recycling the Environment and Dirt)"
+    ],
+    "events": [
+      "Annual Function",
+      "Sports Day",
+      "Excursion Trips",
+      "Welcome and Farewell Events",
+      "Cultural Festivals"
+    ]
+  },
+  "feedback_and_certificates": [
+    "Job applications",
+    "Admission applications",
+    "Leave applications",
+    "Short-leave applications",
+    "Barrier entry certificates",
+    "Bona fide certificates",
+    "Hope certificates",
+    "Character certificates",
+    "Annual Teacher Evaluations"
+  ]
+}
